@@ -22,6 +22,7 @@ body {
 
 }
 /*Header.............................................*/
+/*Picture too small use size to cover*/
 h1 {
 	font-family: Georgia, "Times New Roman", serif;
 	background-image: url(sunset.jpg);
@@ -71,6 +72,7 @@ nav a:hover {
 	font-weight: bolder;
 	color: rgb(20, 106, 177);
 }
+/*put list dot inside*/
 #content ul{
 	
 	list-style-image: url(marker.gif);
